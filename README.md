@@ -1,4 +1,1 @@
-skrypty
-=======
-
 Skrypty Bash'a
