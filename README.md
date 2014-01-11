@@ -1,0 +1,4 @@
+skrypty
+=======
+
+Skrypty Bash'a
